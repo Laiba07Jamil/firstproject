@@ -1,6 +1,0 @@
-﻿  Assembling Wordle.asm...
-Wordle.asm(3): error A2046: missing single or double quotation mark in string
-Wordle.asm(4): error A2042: statement too complex
-Wordle.asm(8): error A2044: invalid character in file
-Wordle.asm(61): error A2006: undefined symbol : words
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Wordle.obj" /I "C:\irvine" /W3 /errorReport:prompt  /TaWordle.asm" exited with code 1.
